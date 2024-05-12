@@ -1,3 +1,4 @@
+<img width="1433" alt="Screenshot 2024-05-12 at 13 51 08" src="https://github.com/Syamn17/-Hotel-Bookings-Cancellation-Project-On-Excel/assets/132201157/ca1e88f6-0288-41b4-ab91-b9b9c2f3140a">
 Hotel Booking Cancellation Project on Excel 
 
 Introduction:
